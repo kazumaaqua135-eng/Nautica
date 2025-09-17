@@ -3,7 +3,7 @@ import { connect } from "cloudflare:sockets";
 // import { Buffer } from "node:buffer";
 
 // Variables
-const rootDomain = "kazumaaqua135.workers.dev"; // Ganti dengan domain utama kalian
+const rootDomain = "dpdns.org"; // Ganti dengan domain utama kalian
 const serviceName = "aqua33"; // Ganti dengan nama workers kalian
 const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = ""; // Ganti dengan email yang kalian gunakan
